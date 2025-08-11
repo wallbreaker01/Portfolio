@@ -592,11 +592,52 @@
                                     </div>
                                 </div>
                                 <div>
-                                    <!-- Embed Google Form -->
-                                    <iframe
-                                        src="https://docs.google.com/forms/d/e/1FAIpQLSdXzj1cpLScdmz3shKPxeqwxWmfDHPWf-JCSiwRdqWNktdd_g/viewform?usp=dialog"
-                                        width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">
-                                    </iframe>
+                                    <!-- Custom Contact Form -->
+                                    <form action="mailto:srshowmik2001@gmail.com" method="post" enctype="text/plain" style="padding: 20px;">
+                                        <div style="margin-bottom: 20px;">
+                                            <label for="name" style="display: block; color: #32a852; margin-bottom: 5px; font-size: 14px;">Name *</label>
+                                            <input type="text" id="name" name="name" required 
+                                                style="width: 100%; padding: 12px; border: 2px solid #555; border-radius: 8px; background: #2a2a2a; color: #fff; font-size: 14px; box-sizing: border-box;" 
+                                                placeholder="Your full name">
+                                        </div>
+                                        
+                                        <div style="margin-bottom: 20px;">
+                                            <label for="email" style="display: block; color: #32a852; margin-bottom: 5px; font-size: 14px;">Email *</label>
+                                            <input type="email" id="email" name="email" required 
+                                                style="width: 100%; padding: 12px; border: 2px solid #555; border-radius: 8px; background: #2a2a2a; color: #fff; font-size: 14px; box-sizing: border-box;" 
+                                                placeholder="your.email@example.com">
+                                        </div>
+                                        
+                                        <div style="margin-bottom: 20px;">
+                                            <label for="subject" style="display: block; color: #32a852; margin-bottom: 5px; font-size: 14px;">Subject *</label>
+                                            <input type="text" id="subject" name="subject" required 
+                                                style="width: 100%; padding: 12px; border: 2px solid #555; border-radius: 8px; background: #2a2a2a; color: #fff; font-size: 14px; box-sizing: border-box;" 
+                                                placeholder="Project inquiry, collaboration, etc.">
+                                        </div>
+                                        
+                                        <div style="margin-bottom: 20px;">
+                                            <label for="message" style="display: block; color: #32a852; margin-bottom: 5px; font-size: 14px;">Message *</label>
+                                            <textarea id="message" name="message" rows="6" required 
+                                                style="width: 100%; padding: 12px; border: 2px solid #555; border-radius: 8px; background: #2a2a2a; color: #fff; font-size: 14px; resize: vertical; box-sizing: border-box;" 
+                                                placeholder="Tell me about your project or how I can help you..."></textarea>
+                                        </div>
+                                        
+                                        <div style="text-align: center;">
+                                            <button type="submit" 
+                                                style="background: linear-gradient(135deg, #32a852 0%, #28a745 100%); color: white; padding: 12px 30px; border: none; border-radius: 8px; font-size: 16px; font-weight: bold; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(50, 168, 82, 0.3);"
+                                                onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 6px 20px rgba(50, 168, 82, 0.4)'"
+                                                onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(50, 168, 82, 0.3)'">
+                                                Send Message <i class="ri-send-plane-line" style="margin-left: 8px;"></i>
+                                            </button>
+                                        </div>
+                                        
+                                        <div style="text-align: center; margin-top: 15px;">
+                                            <p style="color: #888; font-size: 12px;">
+                                                Or reach out directly: 
+                                                <a href="mailto:srshowmik2001@gmail.com" style="color: #32a852; text-decoration: none;">srshowmik2001@gmail.com</a>
+                                            </p>
+                                        </div>
+                                    </form>
                                 </div>
                             </div>
                         </div>
