@@ -1,15 +1,15 @@
 # Sowmik Roy's Portfolio Website 🚀
 
-Welcome to my portfolio website! This repository showcases my journey as a Software Engineer and Full-Stack Developer, featuring my projects, skills, and technical expertise.
+Welcome to my portfolio website! This repository showcases my journey as a Software Engineering student at SUST, featuring my projects, skills, and academic achievements.
 
 ## 👨‍💻 About Me
 
-I'm **Sowmik Roy** ([@wallbreaker01](https://github.com/wallbreaker01)), a passionate Software Engineer from Bangladesh with expertise in:
-- **Full-Stack Development** (JavaScript, React, Node.js)
-- **AI & Machine Learning** (Python, Computer Vision, Deep Learning)
-- **Mobile Development** (Kotlin, Android)
-- **Game Development** (Java, C++)
-- **Competitive Programming** (C++, Data Structures & Algorithms)
+I'm **Sowmik Roy** ([@wallbreaker01](https://github.com/wallbreaker01)), a passionate Software Engineering student from Bangladesh currently pursuing BSc in Software Engineering at SUST with a CGPA of 3.53. My expertise includes:
+- **Web Development** (HTML, CSS, JavaScript, React.js, Node.js)
+- **Programming Languages** (C/C++, Python, Java, JavaScript)
+- **Database Management** (MongoDB, MySQL)
+- **Competitive Programming** (500+ problems solved)
+- **Mobile Development** (Kotlin for Android)
 
 ## 🛠️ Technologies Used
 
@@ -17,50 +17,72 @@ I'm **Sowmik Roy** ([@wallbreaker01](https://github.com/wallbreaker01)), a passi
 - HTML5
 - CSS3
 - JavaScript
+- React
 - Responsive Design
 
 ### Backend & Languages
-- JavaScript (Node.js)
+- Node.js
+- Express.js
 - Python
 - Java
-- C++
+- C/C++
 - Kotlin
-- MATLAB
 
 ### Databases & Tools
+- MongoDB
+- MySQL
 - Git & GitHub
-- Jupyter Notebooks
-- Android Studio
+- VSCode
+- Postman
+- Vercel
+- Figma
 
 ## ✨ Features
 
 - **Responsive Design** - Works seamlessly across all devices
 - **Modern UI/UX** - Clean, professional, and user-friendly interface
-- **Smooth Animations** - Enhanced user experience with CSS transitions
+- **Smooth Animations** - Enhanced user experience with CSS transitions and typewriter effect
 - **Interactive Elements** - Dynamic navigation and scroll effects
 - **Project Showcase** - Real projects linked to GitHub repositories
 - **Skills Section** - Comprehensive overview of technical capabilities
-- **Contact Integration** - Easy ways to get in touch
+- **Contact Form** - Custom contact form for easy communication
 
 ## 🎯 Featured Projects
 
-### 1. [Medi-Consult](https://github.com/wallbreaker01/Medi-Consult)
-Healthcare consultation platform built with JavaScript
-- Patient-doctor connection system
-- Appointment scheduling
-- Medical record management
+### 1. [Medi Consult](https://github.com/wallbreaker01/Medi-Consult)
+Healthcare Consultation Platform with responsive medical consultation interface
+- Interactive appointment scheduling
+- Drag-and-drop calendar functionality
+- Role-based dashboards for patients, doctors, and administrators
+- Auto-complete patient search and real-time form validation
+- Chart.js data visualization
 
 ### 2. [Facial Expression Detection](https://github.com/wallbreaker01/Facial-Expression-Detection)
-AI/ML system for real-time emotion recognition
-- Computer vision techniques
-- Deep learning models
-- Python & Jupyter implementation
+Emotion Recognition System that classifies emotions from real-time video
+- CNN model trained on facial datasets
+- Built with Flask, TensorFlow, OpenCV for backend
+- HTML/CSS for frontend
+- PIL with base64 encoding for image processing
 
-### 3. [FoodieBhai Project](https://github.com/wallbreaker01/FoodieBhaiProject)
-Mobile food delivery application
-- Kotlin for Android
-- Restaurant browsing & menu management
-- Order tracking & payment integration
+### 3. [Real Estate Platform](https://github.com/wallbreaker01/Real-State)
+Property Management Platform with responsive React.js frontend
+- User authentication with Google OAuth
+- Property listing management with Firebase Storage image uploads
+- Redux state management
+- Modern UI design using Tailwind CSS
+
+### 4. [FoodieBhai](https://github.com/wallbreaker01/FoodieBhaiProject)
+Online Food Ordering App for Android built with Kotlin
+- Secure payment processing
+- Personalized recommendations
+- Restaurant menu management and order tracking
+- Material Design components
+
+### 5. [Profile Based Task Manager](https://github.com/wallbreaker01/Profile-Based-Task-Manager)
+Full-stack task management application
+- User authentication using JWT
+- Streamlined CRUD operations for To-Do management
+- Modular backend design built with Node.js, Express.js, and MongoDB
 
 ## 🚀 Getting Started
 
@@ -90,24 +112,33 @@ Mobile food delivery application
 
 Visit my portfolio: [Portfolio Website](https://wallbreaker01.github.io/Portfolio_with_html-CSS-JS/) 🌐
 
-## 📈 GitHub Stats
+## 📈 Achievements
 
-- **20+ Projects** completed across various technologies
-- **7+ Programming Languages** mastered
-- **2+ Years** of development experience
-- Active contributor to open-source projects
+- **500+ Problems Solved** across competitive programming platforms
+- **10+ Projects** completed across various technologies  
+- **CGPA 3.53** in Software Engineering at SUST
+- **Perfect GPA 5.00** in HSC from Sylhet M.C College
+- **ICPC Participant** - 2021 Asia Dhaka Regional Contest
+- **SQL Intermediate Certification** from HackerRank
+- **Python & Data Science Training** completed under EDGE Project
 
 ## 🎓 Education
 
-**Shahjalal University of Science and Technology (SUST)**
-- Email: sowmik15@student.sust.edu
-- Location: Sylhet, Bangladesh
+**BSc (Engg.) in Software Engineering**  
+Shahjalal University of Science and Technology (SUST), Sylhet  
+Session: 2020-2021 | CGPA: 3.53 | 2021 - Present
+
+**Higher Secondary Certificate (HSC)**  
+Sylhet M.C College, Sylhet  
+GPA: 5.00 | 2020
 
 ## 📞 Contact
 
-- **Email:** sowmik15@student.sust.edu
+- **Email:** srshowmik2001@gmail.com
 - **GitHub:** [@wallbreaker01](https://github.com/wallbreaker01)
+- **LinkedIn:** [Sowmik Roy](https://www.linkedin.com/in/sowmik-roy-a05594238/)
 - **Facebook:** [roysowmikk](https://www.facebook.com/roysowmikk/)
+- **Codeforces:** [wallbreaker](https://codeforces.com/profile/wallbreaker)
 - **Location:** Sylhet, Bangladesh
 
 ## 🤝 Contributing
